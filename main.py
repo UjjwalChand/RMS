@@ -5,7 +5,7 @@ import tkinter.messagebox
 
 root =Tk()
 root.geometry("1400x750+0+0")
-root.title(" BisKIRAN Restaurant KTM ")
+root.title(" Kundan Kitchen ")
 root.configure(background='Black')
 
 Tops = Frame(root, bg='dark Red', bd=25, pady=20, relief=GROOVE)
